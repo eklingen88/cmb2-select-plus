@@ -1,0 +1,18 @@
+{
+    "name": "eklingen88/cmb2-select-plus",
+    "authors": [
+        {
+            "name": "Manzoor Wani",
+            "homepage": "https://github.com/manzoorwanijk",
+            "role": "Developer"
+        }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">5.2.4",
+        "cmb2/cmb2": "~v2.0"
+    },
+    "suggest": {
+        "composer/installers": "~1.0"
+    }
+}
